@@ -17,3 +17,9 @@
     21.12.11
     1. 두 번째 프로젝트 - 웹 만들기
     - 환경 java 8, devtools, lombook, jpa, maria driver, security, web
+
+    21.12.13
+    1. 기본적인 블로그 만들 예정
+    - https://www.youtube.com/watch?v=6bhF5o4gAOs&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm
+    
+    2. 시험 끝나고 최대 7일 안에 끝낼 예정
