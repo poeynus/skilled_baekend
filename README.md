@@ -23,3 +23,7 @@
     - https://www.youtube.com/watch?v=6bhF5o4gAOs&list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm
     
     2. 시험 끝나고 최대 7일 안에 끝낼 예정
+
+    21.12.16
+    1. 시험이 이제 끝났으므로 다시 시작하기
+    2. 빠르게 진행하기 다음 프로젝트는 또 찾아보는 중
