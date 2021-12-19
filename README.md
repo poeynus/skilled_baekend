@@ -27,3 +27,10 @@
     21.12.16
     1. 시험이 이제 끝났으므로 다시 시작하기
     2. 빠르게 진행하기 다음 프로젝트는 또 찾아보는 중
+
+
+    21.12.19
+    다른 프로젝트
+    1. http://www.datacontest.kr
+    2. https://www.youtube.com/watch?v=U5G-i73Wb6U
+    3. Hadoop, Hive, Spark, Airflow, Superset
