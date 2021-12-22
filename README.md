@@ -37,3 +37,7 @@
     21.12.21
     메모
     1. API 통신 주소 만드는 중 - Restful 추구하게끔
+    
+    21.12.22
+    1. 노션에 정리 완료
+    - https://responsible-pine-394.notion.site/i-Keeper-2-c568ea13d5db4ec9904c09ec0138c0af
