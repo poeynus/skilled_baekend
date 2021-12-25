@@ -41,3 +41,8 @@
     21.12.22
     1. 노션에 정리 완료
     - https://responsible-pine-394.notion.site/i-Keeper-2-c568ea13d5db4ec9904c09ec0138c0af
+    
+    21.12.25
+    1. 오늘 회의 정리 완료
+    - 다음주 까지 끝내기
+    - https://troubled-prawn-c1f.notion.site/3d11bb0c194849fdb9e9828665b236bb?v=db32d173688d4f969d25394ba17072c6
