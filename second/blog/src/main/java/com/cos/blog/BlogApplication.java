@@ -1,13 +1,13 @@
-package com.example.second;
+package com.cos.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecondApplication {
+public class BlogApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecondApplication.class, args);
+		SpringApplication.run(BlogApplication.class, args);
 	}
 
 }
